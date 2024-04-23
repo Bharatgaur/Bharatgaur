@@ -1,4 +1,5 @@
 # Bharat-Gaur
+![logo](https://repository-images.githubusercontent.com/600505791/5ad94589-bd01-40f4-9cce-cd43d8c7d29b)
 <h1 align="center">Hi 👋, I'm Bharat Gaur</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt "coading" width ="400" src="https://media.tenor.com/dzock0eDxV0AAAAM/gofiber-really.gif">
