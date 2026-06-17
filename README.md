@@ -1,37 +1,144 @@
-![logo](https://repository-images.githubusercontent.com/600505791/5ad94589-bd01-40f4-9cce-cd43d8c7d29b)
-<h1 align="center">Hi 👋, I'm Bharat Gaur</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt "coading" width ="400" src="https://media.tenor.com/dzock0eDxV0AAAAM/gofiber-really.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatgaur&label=Profile%20views&color=0e75b6&style=flat" alt="bharatgaur" /> </p>
+# Hi, I'm Bharat Gaur 👋
 
-- 🌱 I’m currently learning **Data Science**
+### Data Analyst &nbsp;|&nbsp; Aspiring Data Scientist &nbsp;|&nbsp; Machine Learning & AI Engineering
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/bharat-gaur/project-portfolio](https://sites.google.com/view/bharat-gaur/project-portfolio)
+<a href="https://github.com/Bharatgaur">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+end-to-end+ML+%26+MLOps+pipelines;Currently+pursuing+M.S.+in+CS+(ML+%26+AI)+%E2%80%94+IIT+Guwahati;Open+to+Data+Science+%2F+ML+%2F+AI+roles+(Remote)" alt="Typing SVG" />
+</a>
 
-- 📝 I regularly write articles on [https://medium.com/@bgaurbharat](https://medium.com/@bgaurbharat)
+<img src="https://komarev.com/ghpvc/?username=bharatgaur&label=Profile%20Views&color=2e75b6&style=flat" alt="profile views" />
+<a href="https://www.linkedin.com/in/bharat-gaur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.kaggle.com/rajdootbharatgaur"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
+<a href="https://medium.com/@bgaurbharat"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/bgaurbharat"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
 
-- 💬 Ask me about **Ml, DL-NLP, DL-CV, AI**
+</div>
 
-- 📫 How to reach me **bgaurbharat@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1sWY05DSYE-CVct8TgwweWCMBPQtlEzOM?usp=sharing](https://drive.google.com/drive/folders/1sWY05DSYE-CVct8TgwweWCMBPQtlEzOM?usp=sharing)
+## About Me
 
-- ⚡ Fun fact **I am funny**
+I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Mechanical Engineering background and a strong, self-driven habit of building complete, working systems rather than isolated notebooks.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bharat-gaur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bharat-gaur/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/rajdootbharatgaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rajdootbharatgaur" height="30" width="40" /></a>
-<a href="https://medium.com/@bgaurbharat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bgaurbharat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/bgaurbharat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/bgaurbharat" height="30" width="40" /></a>
+- 🎓 Currently pursuing an **M.S. in Computer Science — Machine Learning & AI Engineering** (Woolf University & IIT Guwahati, via AlmaBetter)
+- 🔭 Recently shipped six end-to-end capstone projects spanning **predictive ML, deep learning, computer vision, NLP/LLMs, distributed big-data pipelines, and production MLOps**
+- 🛠️ Currently building **Polar Burst** — a disciplined, risk-managed options-trading automation platform (FastAPI + broker API) with anti-emotional-trading safeguards and a real-time terminal-style UI
+- 📊 Background in data analysis, MIS reporting, and dashboarding, now applying that foundation to machine learning and AI systems
+- 📝 I write about ML/AI and data-science concepts on **[Medium](https://medium.com/@bgaurbharat)**
+- 📁 Full project portfolio: **[sites.google.com/view/bharat-gaur](https://sites.google.com/view/bharat-gaur/project-portfolio)**
+- 💬 Ask me about **Machine Learning, Deep Learning (NLP & Computer Vision), LLM fine-tuning, and MLOps**
+- 📫 Reach me at **bgaurbharat@gmail.com**
+- ✅ **Open to Data Analyst / Data Scientist / ML Engineer roles — remote-friendly, including IST night-shift / overlap with US hours**
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🤖 **[IndustryGPT — Domain-Specialized LLM Bot](https://github.com/Bharatgaur/industrygpt-llm-bot)** | Fine-tuned TinyLlama-1.1B with QLoRA on a curated education-domain dataset; multi-mode inference (local → API → rule-based fallback) | `Transformers` `PEFT/LoRA` `bitsandbytes` `Streamlit` |
+| 🧠 **[DeepFER — Facial Emotion Recognition](https://github.com/Bharatgaur/deepfer-facial-emotion-recognition)** | Custom CNN benchmarked against MobileNetV2 & VGG16 transfer learning, with real-time webcam inference | `TensorFlow/Keras` `OpenCV` `Transfer Learning` |
+| ✈️ **[Voyage Analytics — End-to-End MLOps](https://github.com/Bharatgaur/voyage-analytics-mlops)** | Regression, classification & recommendation models in a production pipeline with experiment tracking, containerized deployment, and CI/CD | `MLflow` `Docker` `Kubernetes` `Jenkins` `Airflow` `Flask` |
+| 🏬 **[Integrated Retail Analytics](https://github.com/Bharatgaur/integrated-retail-analytics)** | Demand forecasting, customer segmentation, and market-basket analysis for store optimization | `XGBoost` `ARIMA` `K-Means` `mlxtend` |
+| 💳 **[Financial Forecasting Frontier — Distributed ML](https://github.com/Bharatgaur/financial-forecasting-frontier)** | Bank-marketing prediction pipeline trained on Spark ML over a Hadoop/Hive data warehouse, with a real-time Spark Streaming scoring module | `Hadoop` `Hive` `PySpark` `Spark ML` `Spark Streaming` |
+| 🛒 **[DeepCSAT — Customer Satisfaction Prediction](https://github.com/Bharatgaur/deepcsat-customer-satisfaction)** | Deep ANN combining structured features with TF-IDF + sentiment-derived NLP features to predict e-commerce CSAT scores | `TensorFlow` `NLP` `Flask` |
+
+> 📌 *Repository links above follow my standard naming convention — update with the exact URL once each repo is public.*
+
+---
+
+## Tech Stack
+
+**Languages & Core**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Data Analysis & Visualization**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatgaur&show_icons=true&locale=en&layout=compact" alt="bharatgaur" /></p>
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharatgaur&show_icons=true&locale=en" alt="bharatgaur" /></p>
+**Machine Learning & Deep Learning**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatgaur&" alt="bharatgaur" /></p>
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-006400?style=flat" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+</p>
+
+**Big Data & Distributed Computing**
+
+<p>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat&logo=apachehive&logoColor=black" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
+</p>
+
+**MLOps, Deployment & Cloud**
+
+<p>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+</p>
+
+**Databases**
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bharatgaur&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatgaur&layout=compact&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatgaur&hide_border=true" alt="streak stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+I'm actively looking for **Data Analyst, Data Scientist, ML Engineer, or AI Engineer** opportunities — open to remote roles, including night-shift / US-overlap schedules.
+
+<a href="https://www.linkedin.com/in/bharat-gaur/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:bgaurbharat@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
