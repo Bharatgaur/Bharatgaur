@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
 
 # Hi, I'm Bharat Gaur
 
 ### Data Analyst &nbsp;|&nbsp; Data Scientist &nbsp;|&nbsp; Machine Learning & AI Engineering
-
+</div>
 <div align="center">
 
 <a href="https://github.com/Bharatgaur">
@@ -39,7 +39,7 @@ src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&sec
 
 </div>
 
-
+<div align="left">
 ---
 
 ## About Me
@@ -51,7 +51,7 @@ I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Me
 - 📁 Full project **[Portfolio](your-link)**
 - ✅ **Open to Data Analyst / Data Scientist / ML Engineer roles — remote-friendly, including IST night-shift / overlap with US hours**
 ---
-
+</div>
 ## Featured Projects
 
 | Project | Description | Tech Stack |
