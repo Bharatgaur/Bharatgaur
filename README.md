@@ -8,7 +8,7 @@
 
 <a href="https://github.com/Bharatgaur">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=900&height=80&lines=%E2%9A%A1+Turning+Raw+Data+Into+Intelligent+Decisions+%E2%9A%A1;%F0%9F%A4%96+Building+AI+%7C+ML+%7C+MLOps+Systems;%F0%9F%9A%80+Creating+Production+Ready+ML+Pipelines;%F0%9F%8E%93+M.S.+CS+(AI+%26+ML)+%E2%80%94+IIT+Guwahati;%F0%9F%92%BB+Open+For+Data+Science+%7C+AI+Engineer+Roles"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=900&height=80&lines=%E2%9A%A1+Turning+Raw+Data+Into+Intelligent+Decisions+%E2%9A%A1;%F0%9F%A4%96+Building+AI+%7C+ML+%7C+MLOps+Systems;%F0%9F%9A%80+Creating+Production+Ready+ML+Pipelines;%F0%9F%8E%93+M.S.+CS+(AI+%26+ML)+%E2%80%94+IIT+Guwahati;%F0%9F%92%BB+Open+For+Data+Science+%7C+AI+Engineer+Roles+(Remote)"
     alt="Typing SVG"
   />
 </a>
@@ -17,13 +17,25 @@
 src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"
 />
 
-</div>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=bharatgaur&label=Profile%20Views&color=2e75b6&style=flat" alt="profile views" />
-<a href="https://www.linkedin.com/in/bharat-gaur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.kaggle.com/rajdootbharatgaur"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
-<a href="https://medium.com/@bgaurbharat"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/profile/bgaurbharat"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=bharatgaur&label=Profile%20Views&color=2e75b6&style=flat" alt="profile views" />
+
+  <a href="https://www.linkedin.com/in/bharat-gaur/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.kaggle.com/rajdootbharatgaur">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+  </a>
+
+  <a href="https://medium.com/@bgaurbharat">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/bgaurbharat">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
 
 </div>
 
