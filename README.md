@@ -48,7 +48,7 @@ I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Me
 
 - 🎓 **M.S. in Computer Science — Machine Learning & AI Engineering**, IIT Guwahati
 - 📊 Background in data analysis, MIS reporting, and dashboarding, now applying that foundation to machine learning and AI systems
-- 📁 Full project **[Portfolio](your-link)**
+- 📁 Full project **[Portfolio]([your-link](https://enchanting-gymnast-985.notion.site/Bharat-Gaur-b9178419ef3d4a428dc805b3c8fa0876?pvs=143))**
 - ✅ **Open to Data Analyst / Data Scientist / ML Engineer roles — remote-friendly, including IST night-shift / overlap with US hours**
 
 </div>
