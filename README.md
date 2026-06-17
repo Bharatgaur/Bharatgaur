@@ -4,9 +4,20 @@
 
 ### Data Analyst &nbsp;|&nbsp; Data Scientist &nbsp;|&nbsp; Machine Learning & AI Engineering
 
+<div align="center">
+
 <a href="https://github.com/Bharatgaur">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+end-to-end+ML+%26+MLOps+pipelines;M.S.+in+CS+(ML+%26+AI)+%E2%80%94+IIT+Guwahati;Open+to+Data+Science+%2F+ML+%2F+AI+roles+(Remote)" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=900&height=80&lines=%E2%9A%A1+Turning+Raw+Data+Into+Intelligent+Decisions+%E2%9A%A1;%F0%9F%A4%96+Building+AI+%7C+ML+%7C+MLOps+Systems;%F0%9F%9A%80+Creating+Production+Ready+ML+Pipelines;%F0%9F%8E%93+M.S.+CS+(AI+%26+ML)+%E2%80%94+IIT+Guwahati;%F0%9F%92%BB+Open+For+Data+Science+%7C+AI+Engineer+Roles"
+    alt="Typing SVG"
+  />
 </a>
+
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"
+/>
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=bharatgaur&label=Profile%20Views&color=2e75b6&style=flat" alt="profile views" />
 <a href="https://www.linkedin.com/in/bharat-gaur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
