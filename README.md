@@ -25,7 +25,7 @@ I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Me
 - 🎓 **M.S. in Computer Science — Machine Learning & AI Engineering**, IIT Guwahati
 - 📊 Background in data analysis, MIS reporting, and dashboarding, now applying that foundation to machine learning and AI systems
 - 📝 I write about ML/AI and data-science concepts on **[Medium](https://medium.com/@bgaurbharat)**
-- 📁 Full project portfolio: **[sites.google.com/view/bharat-gaur](https://sites.google.com/view/bharat-gaur/project-portfolio)**
+- 📁 Full project portfolio: **[Notion Portfolio](https://enchanting-gymnast-985.notion.site/Bharat-Gaur-b9178419ef3d4a428dc805b3c8fa0876?pvs=143)**
 - 💬 Ask me about **Machine Learning, Deep Learning (NLP & Computer Vision), LLM fine-tuning, and MLOps**
 - 📫 Reach me at **bgaurbharat@gmail.com**
 - ✅ **Open to Data Analyst / Data Scientist / ML Engineer roles — remote-friendly, including IST night-shift / overlap with US hours**
@@ -122,7 +122,7 @@ I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Me
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=bharatgaur&show_icons=true&theme=default&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatgaur&layout=compact&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatgaur&hide_border=true" alt="streak stats" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=bharatgaur&hide_border=true" alt="streak stats" />
 
 </div>
 
@@ -135,6 +135,6 @@ I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Me
 I'm actively looking for **Data Analyst, Data Scientist, ML Engineer, or AI Engineer** opportunities — open to remote roles, including night-shift / US-overlap schedules.
 
 <a href="https://www.linkedin.com/in/bharat-gaur/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:bgaurbharat@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:bgaurbharat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
