@@ -50,8 +50,9 @@ I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Me
 - 📊 Background in data analysis, MIS reporting, and dashboarding, now applying that foundation to machine learning and AI systems
 - 📁 Full project **[Portfolio](your-link)**
 - ✅ **Open to Data Analyst / Data Scientist / ML Engineer roles — remote-friendly, including IST night-shift / overlap with US hours**
----
+
 </div>
+---
 ## Featured Projects
 
 | Project | Description | Tech Stack |
