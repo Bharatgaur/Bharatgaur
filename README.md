@@ -17,27 +17,28 @@
 src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"
 />
 
-<div align="center">
+<br>
 
-  <img src="https://komarev.com/ghpvc/?username=bharatgaur&label=Profile%20Views&color=2e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=bharatgaur&label=Profile%20Views&color=2e75b6&style=flat" />
 
-  <a href="https://www.linkedin.com/in/bharat-gaur/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/bharat-gaur/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="https://www.kaggle.com/rajdootbharatgaur">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
-  </a>
+<a href="https://www.kaggle.com/rajdootbharatgaur">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+</a>
 
-  <a href="https://medium.com/@bgaurbharat">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
-  </a>
+<a href="https://medium.com/@bgaurbharat">
+<img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
+</a>
 
-  <a href="https://www.hackerrank.com/profile/bgaurbharat">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
-  </a>
+<a href="https://www.hackerrank.com/profile/bgaurbharat">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+</a>
 
 </div>
+
 
 ---
 
@@ -47,9 +48,8 @@ I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Me
 
 - 🎓 **M.S. in Computer Science — Machine Learning & AI Engineering**, IIT Guwahati
 - 📊 Background in data analysis, MIS reporting, and dashboarding, now applying that foundation to machine learning and AI systems
-- 📁 Full project **[Portfolio](https://enchanting-gymnast-985.notion.site/Bharat-Gaur-b9178419ef3d4a428dc805b3c8fa0876?pvs=143)**
+- 📁 Full project **[Portfolio](your-link)**
 - ✅ **Open to Data Analyst / Data Scientist / ML Engineer roles — remote-friendly, including IST night-shift / overlap with US hours**
-
 ---
 
 ## Featured Projects
