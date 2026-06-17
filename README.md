@@ -40,7 +40,7 @@ src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&sec
 </div>
 
 <div align="left">
----
+
 
 ## About Me
 
@@ -52,7 +52,8 @@ I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Me
 - ✅ **Open to Data Analyst / Data Scientist / ML Engineer roles — remote-friendly, including IST night-shift / overlap with US hours**
 
 </div>
----
+
+
 ## Featured Projects
 
 | Project | Description | Tech Stack |
