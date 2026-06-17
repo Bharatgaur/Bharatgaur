@@ -5,7 +5,7 @@
 ### Data Analyst &nbsp;|&nbsp; Aspiring Data Scientist &nbsp;|&nbsp; Machine Learning & AI Engineering
 
 <a href="https://github.com/Bharatgaur">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+end-to-end+ML+%26+MLOps+pipelines;Currently+pursuing+M.S.+in+CS+(ML+%26+AI)+%E2%80%94+IIT+Guwahati;Open+to+Data+Science+%2F+ML+%2F+AI+roles+(Remote)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+end-to-end+ML+%26+MLOps+pipelines;M.S.+in+CS+(ML+%26+AI)+%E2%80%94+IIT+Guwahati;Open+to+Data+Science+%2F+ML+%2F+AI+roles+(Remote)" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=bharatgaur&label=Profile%20Views&color=2e75b6&style=flat" alt="profile views" />
@@ -22,9 +22,7 @@
 
 I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Mechanical Engineering background and a strong, self-driven habit of building complete, working systems rather than isolated notebooks.
 
-- 🎓 Currently pursuing an **M.S. in Computer Science — Machine Learning & AI Engineering** (Woolf University & IIT Guwahati, via AlmaBetter)
-- 🔭 Recently shipped six end-to-end capstone projects spanning **predictive ML, deep learning, computer vision, NLP/LLMs, distributed big-data pipelines, and production MLOps**
-- 🛠️ Currently building **Polar Burst** — a disciplined, risk-managed options-trading automation platform (FastAPI + broker API) with anti-emotional-trading safeguards and a real-time terminal-style UI
+- 🎓 **M.S. in Computer Science — Machine Learning & AI Engineering**, IIT Guwahati
 - 📊 Background in data analysis, MIS reporting, and dashboarding, now applying that foundation to machine learning and AI systems
 - 📝 I write about ML/AI and data-science concepts on **[Medium](https://medium.com/@bgaurbharat)**
 - 📁 Full project portfolio: **[sites.google.com/view/bharat-gaur](https://sites.google.com/view/bharat-gaur/project-portfolio)**
@@ -38,14 +36,12 @@ I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Me
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🤖 **[IndustryGPT — Domain-Specialized LLM Bot](https://github.com/Bharatgaur/industrygpt-llm-bot)** | Fine-tuned TinyLlama-1.1B with QLoRA on a curated education-domain dataset; multi-mode inference (local → API → rule-based fallback) | `Transformers` `PEFT/LoRA` `bitsandbytes` `Streamlit` |
-| 🧠 **[DeepFER — Facial Emotion Recognition](https://github.com/Bharatgaur/deepfer-facial-emotion-recognition)** | Custom CNN benchmarked against MobileNetV2 & VGG16 transfer learning, with real-time webcam inference | `TensorFlow/Keras` `OpenCV` `Transfer Learning` |
-| ✈️ **[Voyage Analytics — End-to-End MLOps](https://github.com/Bharatgaur/voyage-analytics-mlops)** | Regression, classification & recommendation models in a production pipeline with experiment tracking, containerized deployment, and CI/CD | `MLflow` `Docker` `Kubernetes` `Jenkins` `Airflow` `Flask` |
-| 🏬 **[Integrated Retail Analytics](https://github.com/Bharatgaur/integrated-retail-analytics)** | Demand forecasting, customer segmentation, and market-basket analysis for store optimization | `XGBoost` `ARIMA` `K-Means` `mlxtend` |
-| 💳 **[Financial Forecasting Frontier — Distributed ML](https://github.com/Bharatgaur/financial-forecasting-frontier)** | Bank-marketing prediction pipeline trained on Spark ML over a Hadoop/Hive data warehouse, with a real-time Spark Streaming scoring module | `Hadoop` `Hive` `PySpark` `Spark ML` `Spark Streaming` |
-| 🛒 **[DeepCSAT — Customer Satisfaction Prediction](https://github.com/Bharatgaur/deepcsat-customer-satisfaction)** | Deep ANN combining structured features with TF-IDF + sentiment-derived NLP features to predict e-commerce CSAT scores | `TensorFlow` `NLP` `Flask` |
-
-> 📌 *Repository links above follow my standard naming convention — update with the exact URL once each repo is public.*
+| ✈️ **[Productionization of ML Systems — Voyage Analytics: Integrating MLOps in Travel](https://github.com/Bharatgaur/voyage_analytics_mlops)** | Regression, classification & recommendation models in a production pipeline with experiment tracking, containerized deployment, and CI/CD | `MLflow` `Docker` `Kubernetes` `Jenkins` `Airflow` `Flask` |
+| 💳 **[Distributed Machine Learning — Financial Forecasting Frontier](https://github.com/Bharatgaur/Distributed-Machine-Learning-Financial-Forecasting-Frontier)** | Bank-marketing prediction pipeline trained on Spark ML over a Hadoop/Hive data warehouse, with a real-time Spark Streaming scoring module | `Hadoop` `Hive` `PySpark` `Spark ML` `Spark Streaming` |
+| 🏬 **[Advanced Machine Learning — Retail Store Optimization](https://github.com/Bharatgaur/Integrated-Retail-Analytics-for-Store-Optimization)** | Demand forecasting, customer segmentation, and market-basket analysis for store optimization | `XGBoost` `ARIMA` `K-Means` `mlxtend` |
+| 🛒 **[Deep Learning — DeepCSAT: Customer Satisfaction Prediction](https://github.com/Bharatgaur/DeepCSAT-E-Commerce-Customer-Satisfaction-Score-Prediction)** | Deep ANN combining structured features with TF-IDF + sentiment-derived NLP features to predict e-commerce CSAT scores | `TensorFlow` `NLP` `Flask` |
+| 🧠 **[Computer Vision — DeepFER: Facial Emotion Recognition](https://github.com/Bharatgaur/Facial-Emotion-Recognition-Using-Deep-Learning)** | Custom CNN benchmarked against MobileNetV2 & VGG16 transfer learning, with real-time webcam inference | `TensorFlow/Keras` `OpenCV` `Transfer Learning` |
+| 🤖 **[IndustryGPT: Specialized LLM Bot Using Pre-Trained Models — Deep Learning for NLP](https://github.com/Bharatgaur/llm_bot)** | Fine-tuned TinyLlama-1.1B with QLoRA on a curated education-domain dataset; multi-mode inference (local → API → rule-based fallback) | `Transformers` `PEFT/LoRA` `bitsandbytes` `Streamlit` |
 
 ---
 
