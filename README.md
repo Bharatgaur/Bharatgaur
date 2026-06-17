@@ -2,7 +2,7 @@
 
 # Hi, I'm Bharat Gaur
 
-### Data Analyst &nbsp;|&nbsp; Aspiring Data Scientist &nbsp;|&nbsp; Machine Learning & AI Engineering
+### Data Analyst &nbsp;|&nbsp; Data Scientist &nbsp;|&nbsp; Machine Learning & AI Engineering
 
 <a href="https://github.com/Bharatgaur">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+end-to-end+ML+%26+MLOps+pipelines;M.S.+in+CS+(ML+%26+AI)+%E2%80%94+IIT+Guwahati;Open+to+Data+Science+%2F+ML+%2F+AI+roles+(Remote)" alt="Typing SVG" />
@@ -24,10 +24,7 @@ I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Me
 
 - 🎓 **M.S. in Computer Science — Machine Learning & AI Engineering**, IIT Guwahati
 - 📊 Background in data analysis, MIS reporting, and dashboarding, now applying that foundation to machine learning and AI systems
-- 📝 I write about ML/AI and data-science concepts on **[Medium](https://medium.com/@bgaurbharat)**
-- 📁 Full project portfolio: **[Notion Portfolio](https://enchanting-gymnast-985.notion.site/Bharat-Gaur-b9178419ef3d4a428dc805b3c8fa0876?pvs=143)**
-- 💬 Ask me about **Machine Learning, Deep Learning (NLP & Computer Vision), LLM fine-tuning, and MLOps**
-- 📫 Reach me at **bgaurbharat@gmail.com**
+- 📁 Full project **[Portfolio](https://enchanting-gymnast-985.notion.site/Bharat-Gaur-b9178419ef3d4a428dc805b3c8fa0876?pvs=143)**
 - ✅ **Open to Data Analyst / Data Scientist / ML Engineer roles — remote-friendly, including IST night-shift / overlap with US hours**
 
 ---
