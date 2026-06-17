@@ -133,6 +133,12 @@ I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Me
 I'm actively looking for **Data Analyst, Data Scientist, ML Engineer, or AI Engineer** opportunities — open to remote roles, including night-shift / US-overlap schedules.
 
 <a href="https://www.linkedin.com/in/bharat-gaur/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:bgaurbharat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bgaurbharat@gmail.com" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Email"
+  />
+</a>
 
 </div>
