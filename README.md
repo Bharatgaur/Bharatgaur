@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Bharat Gaur 👋
+# Hi, I'm Bharat Gaur
 
 ### Data Analyst &nbsp;|&nbsp; Aspiring Data Scientist &nbsp;|&nbsp; Machine Learning & AI Engineering
 
@@ -121,8 +121,6 @@ I'm a Data Analyst transitioning into Data Science and AI Engineering, with a Me
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=bharatgaur&show_icons=true&theme=default&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatgaur&layout=compact&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=bharatgaur&hide_border=true" alt="streak stats" />
 
 </div>
 
